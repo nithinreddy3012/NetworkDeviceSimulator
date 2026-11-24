@@ -1,0 +1,6 @@
+
+# Compiled Java files
+bin/
+
+# VS Code settings
+.vscode/
